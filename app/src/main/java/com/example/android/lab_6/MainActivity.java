@@ -26,6 +26,7 @@ public class MainActivity extends FragmentActivity {
     private static final int PERMISSION_REQUEST_ACCESS_FINE_LOCATION = 12;
     Location mLastKnownLocation;
 
+    
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
